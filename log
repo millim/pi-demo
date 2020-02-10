@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "lcd_main.py", line 3, in <module>
+    import Adafruit_DHT
+ImportError: No module named Adafruit_DHT
